@@ -1,6 +1,7 @@
 Welcome to the Memory Card Game! This game is a fun and challenging way to test your memory skills. The objective is simple: match all the pairs of cards. But be warned, it's easier said than done!
 
 How to Play
+
 1.Setup: Shuffle the deck of cards and lay them face down in a grid formation.
 2.Turn Over Cards: Each player takes turns flipping over two cards at a time.
 3.Remember Card Positions: Pay close attention to the cards you flip over and remember their positions.
@@ -10,6 +11,7 @@ How to Play
 
 
 Technologies Used
+
 HTML
 CSS
 JavaScript
